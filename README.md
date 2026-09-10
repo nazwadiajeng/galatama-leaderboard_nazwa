@@ -14,7 +14,7 @@ Sebelum mulai coding, saya melakukan analisis terlebih dahulu terhadap beberapa 
 Walaupun begitu, menurut saya bagian UI masih bisa dikembangkan lagi. Misalnya menambahkan karakter yang sedang memancing, peralatan seperti pancing dan umpan, serta animasi karakter ketika mendapatkan ikan. Dengan tambahan tersebut, permainan bisa terasa lebih seperti game fishing dan tidak hanya berfokus pada leaderboard.
 ## Yang Masih Bisa Dikembangkan
 Menurut saya project ini masih bisa dikembangkan lagi, terutama dari sisi pengalaman pengguna, visual, dan jika nantinya ingin dibuat menjadi game multiplayer yang sebenarnya.Beberapa hal yang masih ingin saya kembangkan:
-*Memperbaiki sistem suara tangkapan agar suara catch hanya muncul pada kondisi yang sesuai dan tidak muncul kembali setelah satu hasil tangkapan yang tidak memenuhi kondisi.
+* Memperbaiki sistem suara tangkapan agar suara catch hanya muncul pada kondisi yang sesuai dan tidak muncul kembali setelah satu hasil tangkapan yang tidak memenuhi kondisi musik latar tetap menyala selama permainan berlangsung..
 * Menambahkan input nama pemain di halaman awal sebelum masuk ke permainan.
 * Membuat tampilan awal yang menunjukkan karakter sedang memancing di atas permukaan air.
 * Saat tombol Start ditekan, karakter dan kamera dibuat seperti turun ke bawah laut sebelum permainan dimulai.
